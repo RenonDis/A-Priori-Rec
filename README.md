@@ -1,6 +1,6 @@
 # A-Priori-Rec
 
-Algorithme d'extraction de règles de classification de champignon. Adaptation d'A Priori avec adaptation du minSup pour couvrir toutes les instances de l'ensemble d'apprentissage.
+Algorithme d'extraction de règles de classification de champignons. Adaptation d'A Priori avec adaptation du minSup pour couvrir toutes les instances de l'ensemble d'apprentissage.
 
 La logique est la suivante :
 
